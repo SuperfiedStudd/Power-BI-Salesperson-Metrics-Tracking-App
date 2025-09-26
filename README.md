@@ -2,7 +2,7 @@
 
 [View on Microsoft AppSource](https://appsource.microsoft.com/en-us/product/power-bi/dhyeyconsultingservicespvtltd1584430919382.salesperson_metrics?tab=Overview)  
 
-[![Watch the Demo][(https://img.youtube.com/vi/Z78a3rHhR68/0.jpg)](https://www.youtube.com/watch?v=Z78a3rHhR68)]
+[![Watch the Demo][[(https://img.youtube.com/vi/Z78a3rHhR68/0.jpg)](https://www.youtube.com/watch?v=Z78a3rHhR68)]](https://youtu.be/jhX8hAw_viw?si=6m3Qz8cDZOG2IO5a)
 
 ---
 
