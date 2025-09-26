@@ -1,9 +1,12 @@
-# Power-BI-Salesperson-Metrics-Tracking-App
-[View on Microsoft AppSource](https://appsource.microsoft.com/en-us/product/power-bi/dhyeyconsultingservicespvtltd1584430919382.salesperson_metrics?tab=Overview) 
-(Opens in the same tab)
+# Power-BI-Salesperson-Metrics-Tracking-App  
 
-[![Watch the Demo](https://img.youtube.com/vi/Z78a3rHhR68/0.jpg)](https://www.youtube.com/watch?v=Z78a3rHhR68) 
-(Click this link to view the demo video, link opens in the same tab)
+[View on Microsoft AppSource](https://appsource.microsoft.com/en-us/product/power-bi/dhyeyconsultingservicespvtltd1584430919382.salesperson_metrics?tab=Overview)  
+
+[![Watch the Demo](https://img.youtube.com/vi/Z78a3rHhR68/0.jpg)](https://www.youtube.com/watch?v=Z78a3rHhR68)  
+
+---
+
+## Overview  
 
 Track and analyze salesperson performance metrics to uncover correlations between activities and outcomes.  
 
@@ -58,6 +61,35 @@ Maps engagement types such as calls, emails, visits, and messages to revenue imp
 
 ---
 
+## Screenshots  
+
+Dashboard Overview  
+![Dashboard Overview](https://github.com/SuperfiedStudd/Power-BI-Salesperson-Metrics-Tracking-App/blob/main/docs/dashboard_overview.png?raw=true)  
+
+Deals View  
+![Deals](https://github.com/SuperfiedStudd/Power-BI-Salesperson-Metrics-Tracking-App/blob/main/docs/deals.png?raw=true)  
+
+Activity vs Revenue  
+![Activity vs Revenue](https://github.com/SuperfiedStudd/Power-BI-Salesperson-Metrics-Tracking-App/blob/main/docs/salespersonactivity.png?raw=true)  
+
+---
+
+## How to Use  
+
+This repository is intended as a showcase:  
+1. Watch the demo video above for a walkthrough.  
+2. Explore the screenshots for dashboard views.  
+3. Try the published app directly on [Microsoft AppSource](https://appsource.microsoft.com/en-us/product/power-bi/dhyeyconsultingservicespvtltd1584430919382.salesperson_metrics?tab=Overview).  
+
+---
+
 ## Why It Matters  
 
 This Power BI app turns sales data into strategic clarity. It helps leaders guide teams with precision, refine outreach tactics, and amplify results through data-driven coaching.  
+
+---
+
+## Author  
+
+Developed by **Jasjyot Singh**  
+Contact: jasjyotsingh.work@gmail.com  
