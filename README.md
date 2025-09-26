@@ -2,7 +2,8 @@
 [View on Microsoft AppSource](https://appsource.microsoft.com/en-us/product/power-bi/dhyeyconsultingservicespvtltd1584430919382.salesperson_metrics?tab=Overview) 
 (Opens in the same tab)
 
-[![Watch the Demo](https://img.youtube.com/vi/Z78a3rHhR68/0.jpg)](https://www.youtube.com/watch?v=Z78a3rHhR68)
+[![Watch the Demo](https://img.youtube.com/vi/Z78a3rHhR68/0.jpg)](https://www.youtube.com/watch?v=Z78a3rHhR68) 
+(Click this link to view the demo video, link opens in the same tab)
 
 Track and analyze salesperson performance metrics to uncover correlations between activities and outcomes.  
 
