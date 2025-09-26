@@ -1,5 +1,5 @@
 # Power-BI-Salesperson-Metrics-Tracking-App
-
+[View on Microsoft AppSource](https://appsource.microsoft.com/en-us/product/power-bi/dhyeyconsultingservicespvtltd1584430919382.salesperson_metrics?tab=Overview) 
 Track and analyze salesperson performance metrics to uncover correlations between activities and outcomes.  
 
 In today’s competitive sales landscape, recording metrics is just the beginning. Real impact comes from understanding the relationship between effort and results. This Power BI app transforms raw sales activity into clear, actionable insights that help leaders optimize performance, coach more effectively, and scale success.  
