@@ -4,7 +4,7 @@ Dashboard Overview
 ![Dashboard Overview](https://github.com/SuperfiedStudd/Power-BI-Salesperson-Metrics-Tracking-App/blob/main/docs/dashboard_overview.png)  
 
 Filters in Action  
-![Filters](docs/screenshots/deals.png)  
+![Filters](https://github.com/SuperfiedStudd/Power-BI-Salesperson-Metrics-Tracking-App/blob/main/docs/screenshots/deals.png)  
 
 Activity vs Revenue  
-![Activity vs Revenue](docs/screenshots/salespersonactivity.png)  
+![Activity vs Revenue](https://github.com/SuperfiedStudd/Power-BI-Salesperson-Metrics-Tracking-App/blob/main/docs/screenshots/salespersonactivity.png)  
