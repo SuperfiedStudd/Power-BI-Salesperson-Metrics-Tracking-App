@@ -1,7 +1,7 @@
 ## Screenshots  
 
 Dashboard Overview  
-[Dashboard Overview](https://github.com/SuperfiedStudd/Power-BI-Salesperson-Metrics-Tracking-App/blob/main/docs/dashboard_overview.png)  
+![Dashboard Overview](https://github.com/SuperfiedStudd/Power-BI-Salesperson-Metrics-Tracking-App/blob/main/docs/dashboard_overview.png)  
 
 Filters in Action  
 ![Filters](docs/screenshots/deals.png)  
